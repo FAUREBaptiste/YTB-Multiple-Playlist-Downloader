@@ -23,6 +23,8 @@ OR copy past the script and use it in your IDE (Do not forget to install the nee
 3. Click "Choose Output Folder" to select where to save the audio files.
 4. Click "Download" to start downloading audio from the specified playlists.
 5. Once the download is complete, check the selected output folder for the downloaded audio files.
+![GUI](https://github.com/FAUREBaptiste/YTB-Multiple-Playlist-Downloader/assets/168738566/b3e17b20-09e2-4263-ae93-78c209897254)
+
 
 ## Troubleshooting
 ### Security Warnings
